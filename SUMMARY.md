@@ -1,19 +1,20 @@
 # Table of contents
 
-* [😆 The tech Mentoring Handbook](README.md)
-  * [Page 2](the-tech-mentoring-handbook/page-2.md)
-  * [Page 3](the-tech-mentoring-handbook/page-3.md)
+* [🦄 Finance Guide for SA Devs](README.md)
+  * [What is this?](finance-guide-for-sa-devs/what-is-this.md)
+  * [Who is this for?](finance-guide-for-sa-devs/who-is-this-for.md)
+  * [What this is not (financial advice)](finance-guide-for-sa-devs/what-this-is-not-financial-advice.md)
 
-## The Company
+## 💸 Tax
 
-* [Vision and Values](the-company/vision-and-values.md)
-* [Meet the Team!](the-company/meet-the-team.md)
+* [Tax Basics](tax/tax-basics.md)
+* [Tax Brackets](tax/tax-brackets.md)
 
-## The Formal Stuff
+## 📈 Investing and wealth management
 
-* [Requesting Time Off](the-formal-stuff/requesting-time-off.md)
-* [Filing Expenses](the-formal-stuff/filing-expenses.md)
+* [Asset classes](investing-and-wealth-management/asset-classes.md)
+* [Investing in property](investing-and-wealth-management/investing-in-property.md)
 
-## Group 1
+## 🏗 Building a business
 
-* [Page 1](group-1/page-1.md)
+* [Side hustle v Hobby](building-a-business/side-hustle-v-hobby.md)
