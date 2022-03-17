@@ -6,7 +6,7 @@ coverY: 0
 
 # Vision and Values
 
-## Our Vision
+## Our Vision Is cool
 
 {% hint style="info" %}
 **Good to know:** a good vision statement shows the long-term goals of the company without getting too deep into strategy, implementation, or product specifics.
